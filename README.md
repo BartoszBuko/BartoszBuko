@@ -1,20 +1,31 @@
-### Hello, I'm Bartosz 👋
+# Hello, I'm Bartosz 👋
 
-## Can you describe yourself?
+## Welcome to my profile! 🙋‍♂️
 
-Of course, I'm 16 years old future Front End developer, and...
+I'm teenager from 🇵🇱 Poland 🇵🇱 with love and passion in IT and Programming.
 
-- I'm learning intermediate JS 🔧
+- I'm learning React 🔧
 - I'm looking for people to learn and work with ⚡
-- My goals for 2022: Open my first blog 📢
-- I enjoy listening to music and repairing electronic 📺
+- My goals for 2023: Open my first blog 📢
+- I enjoy listening to music and repairing electronics 📺
 
-### How can I contact you?:
+Check my profile for further informations and also my projects! 🧑🏻‍🎓
 
-[<img align="left" alt="LinkedIn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="IG | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+### Languages:
 
-<br />
+- HTML, CSS 📖
+- JavaScript 💕
+- C++ (begginer level) 🌊
+- Node/express 👀 
+
+
+## Let's keep in touch 🤝
+
+[<img align="left" alt="Bartosz Buko | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][facebook]
+[<img align="left" alt="Bartosz Buko | linkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />][linkedin]
+[<img align="left" style="margin-bottom: 250px" alt="Bartosz Buko | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 
 [instagram]: https://www.instagram.com/bartus_buko/
 [linkedin]: https://www.linkedin.com/in/bartosz-buko-381a41215/
+[facebook]: https://www.facebook.com/bartosz.buko.73
