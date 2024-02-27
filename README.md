@@ -6,7 +6,7 @@ I'm teenager from 🇵🇱 Poland 🇵🇱 with love and passion in IT and Progr
 
 - I'm learning React 🔧
 - I'm looking for people to learn and work with ⚡
-- My goals for 2023: Open my first blog 📢
+- My goals for 2024: Open my first blog 📢
 - I enjoy listening to music and repairing electronics 📺
 
 Check my profile for further informations and also my projects! 🧑🏻‍🎓
