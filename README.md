@@ -23,7 +23,7 @@ Check my profile for further informations and also my projects! 🧑🏻‍🎓
 
 [<img align="left" alt="Bartosz Buko | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Bartosz Buko | linkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />][linkedin]
-[<img align="left" style="margin-bottom: 250px" alt="Bartosz Buko | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" style="margin-bottom: 250" alt="Bartosz Buko | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
 [instagram]: https://www.instagram.com/bartus_buko/
