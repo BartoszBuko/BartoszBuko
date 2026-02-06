@@ -6,8 +6,8 @@ I'm teenager from 🇵🇱 Poland 🇵🇱 with love and passion in IT and Progr
 
 - I'm learning Next.js and TS 🔧
 - I'm looking for people to learn and work with ⚡
-- My goals for 2025: Add projects to portfolio with TS and Next.js 📢
-- I enjoy listening to music and repairing electronics 📺
+- My goals for 2026: Add projects to portfolio with TS and Next.js 📢
+- I enjoy listening to music and repairing cars 📺
 
 Check my profile for further informations and also my projects! 🧑🏻‍🎓
 
@@ -15,8 +15,10 @@ Check my profile for further informations and also my projects! 🧑🏻‍🎓
 
 - HTML, CSS 📖
 - JavaScript 💕
-- C++ (begginer level) 🌊
-- Node/express 👀 
+- TypeScript 💙
+- C# (begginer level) 🌊
+- Node/express 👀
+  
 
 
 ## Let's keep in touch 🤝
