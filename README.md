@@ -11,9 +11,6 @@ I'm from 🇵🇱 Poland 🇵🇱 with love and passion for Front-End Developmen
 
 ---
 
-![Metrics](https://metrics.lecoq.io/BartoszBuko?template=classic&base.header=0&base.activity=0&base.community=0&display=regular)
-
-
 ### 🚀 Tech Stack
 
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
