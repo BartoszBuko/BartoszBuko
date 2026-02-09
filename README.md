@@ -7,9 +7,12 @@ I'm from 🇵🇱 Poland 🇵🇱 with love and passion for Front-End Developmen
 - 🛠️ I'm currently learning **Next.js** and **TypeScript**
 - ⚡ I'm looking for people to learn and work with
 - 📢 My goals for 2026: Add professional projects to my portfolio using TS and Next.js
-- 🚗 I enjoy listening to music and repairing cars (Mazda 6 1.8 2007 is the only goat 🐐)
+- 🚗 I enjoy listening to music and repairing cars
 
 ---
+
+![Metrics](https://metrics.lecoq.io/BartoszBuko?template=classic&base.header=0&base.activity=0&base.community=0&display=regular)
+
 
 ### 🚀 Tech Stack
 
