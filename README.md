@@ -11,6 +11,12 @@ I'm from 🇵🇱 Poland 🇵🇱 with love and passion in Front-End Development
 
 Check my profile for further informations and also my projects! 🧑🏻‍🎓
 
+### Stats:
+
+![Bartosz's GitHub stats](https://github-readme-stats.vercel.app/api?username=BartoszBuko&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BartoszBuko&layout=compact&theme=dark)
+
+
 ### Languages:
 
 - ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
