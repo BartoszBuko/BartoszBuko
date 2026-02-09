@@ -16,7 +16,7 @@ Check my profile for further informations and also my projects! 🧑🏻‍🎓
 - HTML, CSS 📖
 - JavaScript 💕
 - TypeScript 💙
-- C# (begginer level) 🌊
+- C# (beginner level) 🌊
 - Node/express 👀
   
 
