@@ -13,11 +13,11 @@ Check my profile for further informations and also my projects! 🧑🏻‍🎓
 
 ### Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BartoszBuko&show_icons=true&theme=dark" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BartoszBuko&layout=compact&theme=dark" alt="top langs" />
-</p>
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BartoszBuko&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BartoszBuko&layout=compact&theme=dark" alt="Top Languages" />
+</div>
 
 ### Languages:
 
