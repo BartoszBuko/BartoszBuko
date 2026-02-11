@@ -4,7 +4,7 @@
 
 I'm from 🇵🇱 Poland 🇵🇱 with love and passion for Front-End Development.
 
-- 🛠️ I'm currently learning **Next.js** and **TypeScript**
+- 🛠️ I'm currently learning **Next.js**
 - ⚡ I'm looking for people to learn and work with
 - 📢 My goals for 2026: Add professional projects to my portfolio using TS and Next.js
 - 🚗 I enjoy listening to music and repairing cars
